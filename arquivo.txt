@@ -1,3 +1,4 @@
 teste de arquivo 
 teste de arquivo2 
 teste de arquivo4 
+teste de arquivo3 
